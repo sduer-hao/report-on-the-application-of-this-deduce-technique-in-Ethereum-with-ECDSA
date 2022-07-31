@@ -37,4 +37,5 @@ Qi = ai P(1 ≤i≤ L)。
 
 参考文献：
 1.https://weibo.com/ttarticle/p/show?id=2309404720225936605782#_loginLayer_1659241375037
+
 2.Hartwig Mayer.ECDSA Security in Bitcoin and Ethereum: a Research Survey  
